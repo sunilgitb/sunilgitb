@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilgitb
 - 👀 I’m interested in Full Stack Developer
-- Backend PHP, Node Js, Java, Python
+- Backend PHP and Python
 - Frontend React, Tailwind Css, Bootstrap
 
 <!---
